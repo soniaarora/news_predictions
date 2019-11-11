@@ -1,6 +1,6 @@
-# news_predictions
+# Predictions of news title using headlines as source of news 
 
-##Problem Formulation- Trend Analysis of News Topics on Social Media 					
+## Problem Formulation- Trend Analysis of News Topics on Social Media 					
 
 •	Worked on project which focus on trends and analyze the reasons for variation of popularity of news topic.
 •	Performed data processing and text analysis on news headlines using Bag of Words.
