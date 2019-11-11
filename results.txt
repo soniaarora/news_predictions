@@ -1,0 +1,17 @@
+Results:
+Using Title, Headline, Topic,normalized using min max scalar
+SVM = 84%
+KNN with 10 nearest neighbors: 72%, training = 76
+Decision Trees = 78%
+Naive Bayes = 80%, training = 86%
+
+Logistic Regression = 77%, training set = 90%
+
+
+Using Title, Headline, normalized using min max scalar
+
+Navie Bayes = 79%
+LogisticRegression - 81%, training set = 93%
+KNN with 10 neighbors :76%, training:82%
+Decisiontrees= 79%
+SVM = 84%
